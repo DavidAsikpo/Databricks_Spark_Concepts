@@ -1,0 +1,15 @@
+{
+  "events_unique": 1700,
+  "events_by_op": {
+    "I": 320,
+    "U": 1230,
+    "D": 150
+  },
+  "duplicate_lines_emitted": 29,
+  "out_of_order_shifted": 111,
+  "stale_updates_after_delete": 30,
+  "recreated_after_delete": 20,
+  "expected_scd1_final_rows": 8170,
+  "expected_deleted_and_not_recreated": 130,
+  "expected_scd2_total_rows_all_columns_tracked": 9513
+}
